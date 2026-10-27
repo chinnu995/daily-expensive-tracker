@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "AI-Powered Daily Expense Tracker with dual Cash & Bank/UPI balance tracking, intelligent spending quality classification, budgets, and Gemini financial assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
